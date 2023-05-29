@@ -52,6 +52,7 @@ else:
 ~~~    
 
 ## Output :
+![po](https://github.com/Nivetham1710/Muttiple-capacity-with-infinite-capacity/assets/94155183/cc4e3c4b-bf71-4fa7-bbb9-3327e5291d5b)
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
